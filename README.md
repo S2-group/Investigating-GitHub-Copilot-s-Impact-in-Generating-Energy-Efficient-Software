@@ -10,3 +10,4 @@ The repository contains
 To test any of the code above, only perf needs installing (time + tracemalloc are imported) 
 
 
+### Execution
